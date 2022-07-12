@@ -53,6 +53,8 @@ public class basics_of_classes {
 		this.name=name;
 		this.marks=marks;
 		this.rollnumber=rollnumber;
+
+
 		
 		
 	}
